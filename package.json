@@ -163,6 +163,7 @@
     "prop-types": "^15.8.1",
     "punycode": "^2.3.1",
     "react": "^19.0.0",
+<<<<<<< HEAD
     "react-dom": "^19.0.0",
     "react-is": "^16.13.1",
     "react-refresh": "^0.14.2",
@@ -215,6 +216,9 @@
     "word-wrap": "^1.2.5",
     "yallist": "^3.1.1",
     "yocto-queue": "^0.1.0"
+=======
+    "react-dom": "^19.0.0"
+>>>>>>> parent of f52ac87 ("task4")
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
